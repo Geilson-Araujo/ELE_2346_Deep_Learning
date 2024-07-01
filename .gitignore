@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+checkpoint.pt
+data/
+lightning_logs/
+semantic_segmentation.ipynb
+semantic_segmentation_v2.ipynb
+./*.csv
+./*.tif
