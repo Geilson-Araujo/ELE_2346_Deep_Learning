@@ -2,7 +2,9 @@
 checkpoint.pt
 data/
 lightning_logs/
-semantic_segmentation.ipynb
+/assets
+/models
+semantic_segmentation_v0.ipynb
 semantic_segmentation_v2.ipynb
 ./*.csv
 ./*.tif
